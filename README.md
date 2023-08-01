@@ -53,7 +53,7 @@ session.
 Below you'll find direct Binder links to the notebooks in this
 repository.  Click on them to jump straight to them.
 
-- [The notebook of the first tutorial](https://mybinder.org/v2/gh/defeo/cimpa-poayan/master?labpath=2023-08-01-popayan.ipynb) on elliptic curves, torsion points and the Frobenius endomorphism.
+- [The notebook of the first tutorial](https://mybinder.org/v2/gh/defeo/cimpa-popayan/master?labpath=2023-08-01-popayan.ipynb) on elliptic curves, torsion points and the Frobenius endomorphism.
 
 ## Acknowledgments
 
