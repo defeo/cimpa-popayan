@@ -55,7 +55,9 @@ repository.  Click on them to jump straight to them.
 
 - [The notebook of the first tutorial](https://mybinder.org/v2/gh/defeo/cimpa-popayan/master?labpath=2023-08-01-popayan.ipynb) on elliptic curves, torsion points and the Frobenius endomorphism.
 
-- [The notebook of the second tutorial](https://mybinder.org/v2/gh/defeo/cimpa-popayan/master?labpath=2023-08-02-popayan.ipynb) on isogenies and complex multiplication.
+- [The notebook of the second tutorial](https://mybinder.org/v2/gh/defeo/cimpa-popayan/master?labpath=2023-08-03-popayan.ipynb) on isogenies and complex multiplication.
+
+- [The notebook of the third tutorial](https://mybinder.org/v2/gh/defeo/cimpa-popayan/master?labpath=2023-08-04-popayan.ipynb) on complex multiplication and cryptography.
 
 ## Acknowledgments
 
